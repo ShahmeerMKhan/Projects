@@ -1,7 +1,6 @@
 Python Project README:
 Filename: Stack_Overflow_Survey
 The Python project provides an overview and analysis of the 2020 survey of the Stack Overflow community.
-The project could be viewed if the user has Jupyter Notebooks or VSCode downloaded.
 
 Excel Project README:
 Filename: KPI_&_Sales_Dashboard
